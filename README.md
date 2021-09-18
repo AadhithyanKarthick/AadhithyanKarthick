@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AadhithyanKarthick
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning human behaviour
+- 👀 I’m interested in Human
+- 🌱 I’m currently learning Human behaviour
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me push me
+- 📫 How to reach me (fork/branch)
 
 <!---
 AadhithyanKarthick/AadhithyanKarthick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
